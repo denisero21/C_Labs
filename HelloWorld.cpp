@@ -6,5 +6,5 @@ int main()
     std::cin >> a;
     std::cout << a << "\n";
     std::cout << "Hello World" << std::endl;
-    //Huiblya
+    
 }
